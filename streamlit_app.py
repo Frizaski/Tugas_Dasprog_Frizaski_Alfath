@@ -1,5 +1,5 @@
 import streamlit as st
-import modolar as mo
+import module as mo
 
 st.title("Simple Calculator")
 
